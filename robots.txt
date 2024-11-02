@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ejoraewe.github.io/NBL/sitemap_index.txt
+Sitemap: https://ejoraewe.github.io/mpZ/sitemap_index.txt
+Sitemap: https://ejoraewe.github.io/pDN/sitemap_index.txt
+Sitemap: https://ejoraewe.github.io/yan/sitemap_index.txt
